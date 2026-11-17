@@ -53,6 +53,19 @@ h2 {
     color: #17365b;
     font-size: 1.25rem;
     line-height: 1.5;
+    text-indent: 5px;
+	
+	animation: headingFade 1s ease-out;
+}
+@keyframes headingFade {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* 本文を白いカードとして表示する */
