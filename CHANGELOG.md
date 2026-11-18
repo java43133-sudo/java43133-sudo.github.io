@@ -5,6 +5,10 @@
 書式は Keep a Changelog を参考にしています。
 
 ## [Unreleased]
+## [0.4.0]2026-11-18
+### Changed
+- About Me内の仮文章を本文章に書き替えました。
+
 ## [0.3.0] - 2026-11-17
 
 ### Added
